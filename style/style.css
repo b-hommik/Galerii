@@ -6,7 +6,12 @@
     img {
         height: 200px;
         width: 200px;
+        padding: 10px;
     }
+    img:hover {
+      opacity: 0.7;
+    }
+
     #firstButton {
         width: 100%;
     }
